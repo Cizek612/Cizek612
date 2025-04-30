@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Čižek</h1>
-<h3 align="center">Head @ Ancestral Development</h3>
 
 
-🔭 I’m currently working at Ancestral Development, SkyBlur Minecraft Server
+🔭 I’m currently not working on anything :/
 
 💬 Ask me about Java, Spigot API, OOP & much more!
 
@@ -10,6 +9,5 @@
 
 🌌 In need of Java Development services? Reach out!
 
-🧑‍💻 Experienced in getting stuff done 😎
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefovski&label=Profile%20views&color=0e75b6&style=flat" alt="cizek612" /> </p>
