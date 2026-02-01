@@ -3,7 +3,7 @@
 
 🔭 Currently coding Minecraft plugins.
 
-💬 Ask me about Java, Kotlin, and the Spigot API.
+💬 Ask me about Java, Jetpack Compose, and the Spigot API.
 
 📫 How to reach me? Email me at cizekluka@gmail.com!
 
